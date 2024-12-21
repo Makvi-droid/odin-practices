@@ -3,4 +3,4 @@ const game = {
     genre: "soulsborne",
     releaseDate: 2015,
     author: "Hidetaka Miyazaki"
-}
+};
